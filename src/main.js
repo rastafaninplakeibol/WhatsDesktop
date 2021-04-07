@@ -103,6 +103,7 @@ function createWindow() {
                         height: 1200,
                         icon: iconPath
                     });
+                    win.setMenu(null);
                     win.on('closed', function () {
                         console.log('window closed');
                     });

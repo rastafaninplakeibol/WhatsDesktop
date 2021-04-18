@@ -1,1 +1,0 @@
-electron /media/rastafan/DATA/Documenti/Programmi_Javascript/electronapps/WhatsDesktop
